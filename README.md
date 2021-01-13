@@ -1,0 +1,2 @@
+# Faridharidi
+ini tugas pemrograman
